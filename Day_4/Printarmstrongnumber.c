@@ -16,6 +16,7 @@ int main() {
         }
         if(sum==i){
             printf("%d",i);
+            break;
         }
     }
 
